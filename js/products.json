@@ -1,0 +1,751 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "The Adidas Rug",
+            "link": "www.google.com",
+            "image": "img/products/adidas.jpg",
+            "size": "24×18 inches",
+            "inr": "1999",
+            "usd": "75"
+        },
+        {
+            "id": 2,
+            "name": "The Air Jordan Rug",
+            "link": "www.google.com",
+            "image": "img/products/air_jordan_logo.jpg",
+            "size": "40×18 inches",
+            "inr": "3299",
+            "usd": "130"
+        },
+        {
+            "id": 3,
+            "name": "AJ1 Rebillionaire Rug",
+            "link": "www.google.com",
+            "image": "img/products/aj1_reblillionaire.jpg",
+            "size": "36×22 inches",
+            "inr": "3499",
+            "usd": "140"
+        },
+        {
+            "id": 4,
+            "name": "The Akatsuki Cloud Rug",
+            "link": "www.google.com",
+            "image": "img/products/akatsuki.jpg",
+            "size": "30×22 inches",
+            "inr": "2999",
+            "usd": "110"
+        },
+        {
+            "id": 5,
+            "name": "The Any Means Custom Rug",
+            "link": "www.google.com",
+            "image": "img/products/any_means.jpg",
+            "size": "36×36 inches",
+            "inr": "5799",
+            "usd": "190"
+        },
+        {
+            "id": "6",
+            "name": "The Blue Butterfly Rug ",
+            "link": "",
+            "image": "img/products/blue_butterfly.jpg",
+            "size": "30x25 ",
+            "inr": "3399",
+            "usd": "130"
+        },
+        {
+            "id": "7",
+            "name": "The Blue Jordan Logo Rug ",
+            "link": "",
+            "image": "img/products/blue_jordan.jpg",
+            "size": "30x30",
+            "inr": "3999",
+            "usd": "155"
+        },
+        {
+            "id": "8",
+            "name": "The Blue Murakami Rug ",
+            "link": "",
+            "image": "img/products/blue_murakami.jpg",
+            "size": "36x36",
+            "inr": "5799",
+            "usd": "190"
+        },
+        {
+            "id": "9",
+            "name": "The Blue Nike Rug ",
+            "link": "",
+            "image": "img/products/blue_nike.jpg",
+            "size": "24x24",
+            "inr": "2799",
+            "usd": "100"
+        },
+        {
+            "id": "10",
+            "name": "The Charizard Rug ",
+            "link": "",
+            "image": "img/products/charizard.jpg",
+            "size": "30x30 ",
+            "inr": "3999",
+            "usd": "155"
+        },
+        {
+            "id": "11",
+            "name": "The Cactus Jack Face Rug ",
+            "link": "",
+            "image": "img/products/cactus_jack.jpg",
+            "size": "48x30",
+            "inr": "6499",
+            "usd": "210"
+        },
+        {
+            "id": "12",
+            "name": "The Cactus Jack Logo Rug ",
+            "link": "",
+            "image": "img/products/cactus_jack_red.jpg",
+            "size": "30x20",
+            "inr": "2999",
+            "usd": "110"
+        },
+        {
+            "id": "13",
+            "name": "The Chunky Dunks Rug ",
+            "link": "",
+            "image": "img/products/chunky_dunks.jpg",
+            "size": "36x20",
+            "inr": "3199",
+            "usd": "130"
+        },
+        {
+            "id": "14",
+            "name": "The Cloud Custom Rug ",
+            "link": "",
+            "image": "img/products/cloud_customs.jpg",
+            "size": "36x20 ",
+            "inr": "3199",
+            "usd": "130"
+        },
+        {
+            "id": "15",
+            "name": "The CR7 Rug ",
+            "link": "",
+            "image": "img/products/cr7.jpg",
+            "size": "36x25",
+            "inr": "3999",
+            "usd": "160"
+        },
+        {
+            "id": "16",
+            "name": "The Fanboy Rug ",
+            "link": "",
+            "image": "img/products/custom_collage.jpg",
+            "size": "36x36",
+            "inr": "5799",
+            "usd": "190"
+        },
+        {
+            "id": "17",
+            "name": "The Custom Logo Rug ",
+            "link": "",
+            "image": "img/products/custom_logo_rug.jpg",
+            "size": "30x30",
+            "inr": "3999",
+            "usd": "155"
+        },
+        {
+            "id": "18",
+            "name": "The Custom Tattoo Logo Rug ",
+            "link": "",
+            "image": "img/products/custom_tattoo.jpg",
+            "size": "30x30",
+            "inr": "3999",
+            "usd": "155"
+        },
+        {
+            "id": "19",
+            "name": "The Custom Nike 01",
+            "link": "",
+            "image": "img/products/custom_nike_1.jpg",
+            "size": "24x24 ",
+            "inr": "2799",
+            "usd": "100"
+        },
+        {
+            "id": "20",
+            "name": "The Custom Nike 02",
+            "link": "",
+            "image": "img/products/custom_nike_2.jpg",
+            "size": "24x24",
+            "inr": "2799",
+            "usd": "100"
+        },
+        {
+            "id": "21",
+            "name": "The Dastaan Rug ",
+            "link": "",
+            "image": "img/products/dastaan.jpg",
+            "size": "48x30",
+            "inr": "6499",
+            "usd": "210"
+        },
+        {
+            "id": "22",
+            "name": "The Dog Rug 01",
+            "link": "",
+            "image": "img/products/dog_byru.jpg",
+            "size": "24x24",
+            "inr": "2799",
+            "usd": "100"
+        },
+        {
+            "id": "23",
+            "name": "The Dog Rug 02 ",
+            "link": "",
+            "image": "img/products/dog_with_ball.jpg",
+            "size": "24x24",
+            "inr": "2799",
+            "usd": "100"
+        },
+        {
+            "id": "24",
+            "name": "The Dog Rug 03 ",
+            "link": "",
+            "image": "img/products/dog_with_halo.jpg",
+            "size": "26x22",
+            "inr": "2799",
+            "usd": "100"
+        },
+        {
+            "id": "25",
+            "name": "The Dunks Rug ",
+            "link": "",
+            "image": "img/products/dunks.jpg",
+            "size": "36x36",
+            "inr": "5799",
+            "usd": "190"
+        },
+        {
+            "id": "26",
+            "name": "The Red Dunks Rug ",
+            "link": "",
+            "image": "img/products/dunks_red.jpg",
+            "size": "36x36",
+            "inr": "5799",
+            "usd": "190"
+        },
+        {
+            "id": "27",
+            "name": "The Daisy Rug (TEMP)",
+            "link": "",
+            "image": "img/products/dunks_red.jpg",
+            "size": "24x24",
+            "inr": "2799",
+            "usd": "100"
+        },
+        {
+            "id": "28",
+            "name": "The Frenchie Bulldog Rug ",
+            "link": "",
+            "image": "img/products/frenchie_bulldog.jpg",
+            "size": "48x32",
+            "inr": "6999",
+            "usd": "270"
+        },
+        {
+            "id": "29",
+            "name": "The Gengar Rug ",
+            "link": "",
+            "image": "img/products/gengar.jpg",
+            "size": "42x48",
+            "inr": "8999",
+            "usd": "300"
+        },
+        {
+            "id": "30",
+            "name": "The Custom Illustration Rug ",
+            "link": "",
+            "image": "img/products/girl_dog.jpg",
+            "size": "45x28",
+            "inr": "5699",
+            "usd": "200"
+        },
+        {
+            "id": "31",
+            "name": "The Go Away Labrador",
+            "link": "",
+            "image": "img/products/goaway_labrador.jpg",
+            "size": "36x36",
+            "inr": "5799",
+            "usd": "190"
+        },
+        {
+            "id": "32",
+            "name": "The Go Away Pug ",
+            "link": "",
+            "image": "img/products/goaway_pug.jpg",
+            "size": "30x25",
+            "inr": "3399",
+            "usd": "130"
+        },
+        {
+            "id": "33",
+            "name": "The Goku Rug ",
+            "link": "",
+            "image": "img/products/goku.jpg",
+            "size": "24x24",
+            "inr": "2799",
+            "usd": "100"
+        },
+        {
+            "id": "34",
+            "name": "The Gomu Gomu No Mi Rug ",
+            "link": "",
+            "image": "img/products/gomu_gomu.jpg",
+            "size": "30x26",
+            "inr": "3499",
+            "usd": "135"
+        },
+        {
+            "id": "35",
+            "name": "The Heart Mirror Rug ",
+            "link": "",
+            "image": "img/products/heart_mirror.jpg",
+            "size": "",
+            "inr": "",
+            "usd": ""
+        },
+        {
+            "id": "36",
+            "name": "The Hope Custom Rug ",
+            "link": "",
+            "image": "img/products/hope.jpg",
+            "size": "48x48",
+            "inr": "9999",
+            "usd": "300"
+        },
+        {
+            "id": "37",
+            "name": "The Jeep Rug ",
+            "link": "",
+            "image": "img/products/jeep.jpg",
+            "size": "36x25",
+            "inr": "3999",
+            "usd": "160"
+        },
+        {
+            "id": "38",
+            "name": "The Jordan 1 Low SE ",
+            "link": "",
+            "image": "img/products/jordan_1_low_SE.jpg",
+            "size": "36x18",
+            "inr": "2999",
+            "usd": "115"
+        },
+        {
+            "id": "39",
+            "name": "The Jordan 23 Rug ",
+            "link": "",
+            "image": "img/products/jordan_23.jpg",
+            "size": "24x24",
+            "inr": "2799",
+            "usd": "100"
+        },
+        {
+            "id": "40",
+            "name": "The KAWS rug ",
+            "link": "",
+            "image": "img/products/kaws.jpg",
+            "size": "24x18 ",
+            "inr": "1999",
+            "usd": "75"
+        },
+        {
+            "id": "41",
+            "name": "The Lighter Rug ",
+            "link": "",
+            "image": "img/products/lighter.jpg",
+            "size": "48x15",
+            "inr": "3199",
+            "usd": "125"
+        },
+        {
+            "id": "42",
+            "name": "The Custom Logo Rug",
+            "link": "",
+            "image": "img/products/logo_rug_brand.jpg",
+            "size": "30x10",
+            "inr": "1499",
+            "usd": "75"
+        },
+        {
+            "id": "43",
+            "name": "The LV RUg ",
+            "link": "",
+            "image": "img/products/LV.jpg",
+            "size": "24x72",
+            "inr": "7799",
+            "usd": "250"
+        },
+        {
+            "id": "44",
+            "name": "The Murakami Rug ",
+            "link": "",
+            "image": "img/products/murakami.jpg",
+            "size": "36x36",
+            "inr": "5799",
+            "usd": "190"
+        },
+        {
+            "id": "45",
+            "name": "The Nike Box Rug ",
+            "link": "",
+            "image": "img/products/nike_box.jpg",
+            "size": "30x20",
+            "inr": "2999",
+            "usd": "110"
+        },
+        {
+            "id": "46",
+            "name": "The Nike SB Box Rug ",
+            "link": "",
+            "image": "img/products/nike_sb_box.jpg",
+            "size": "30x20",
+            "inr": "2999",
+            "usd": "110"
+        },
+        {
+            "id": "47",
+            "name": "The One Piece Rug ",
+            "link": "",
+            "image": "img/products/one_piece.jpg",
+            "size": "24x22",
+            "inr": "2799",
+            "usd": "100"
+        },
+        {
+            "id": "48",
+            "name": "The Patrick Rug ",
+            "link": "",
+            "image": "img/products/patrik.jpg",
+            "size": "30x25",
+            "inr": "3399",
+            "usd": "130"
+        },
+        {
+            "id": "49",
+            "name": "The Peaky Blinders Rug ",
+            "link": "",
+            "image": "img/products/peaky_blinders.jpg",
+            "size": "40x20 ",
+            "inr": "3599",
+            "usd": "140"
+        },
+        {
+            "id": "50",
+            "name": "The Pikachu x Gyarados Rug ",
+            "link": "",
+            "image": "img/products/pikachu_gyrados.jpg",
+            "size": "40x24",
+            "inr": "4299",
+            "usd": "170"
+        },
+        {
+            "id": "51",
+            "name": "The Post Malone Rug ",
+            "link": "",
+            "image": "img/products/post_malone.jpg",
+            "size": "42x36",
+            "inr": "6799",
+            "usd": "220"
+        },
+        {
+            "id": "52",
+            "name": "The Prada Marfa Rug ",
+            "link": "",
+            "image": "img/products/prada_marfa.jpg",
+            "size": "40x20",
+            "inr": "3599",
+            "usd": "140"
+        },
+        {
+            "id": "53",
+            "name": "The Real Madrid Rug ",
+            "link": "",
+            "image": "img/products/real_madrid.jpg",
+            "size": "36x27 ",
+            "inr": "4399",
+            "usd": "170"
+        },
+        {
+            "id": "54",
+            "name": "The Rick and Morty Portal ",
+            "link": "",
+            "image": "img/products/ricky_morty_portal.jpg",
+            "size": "36x36",
+            "inr": "5799",
+            "usd": "190"
+        },
+        {
+            "id": "55",
+            "name": "The Rick Skull Rug ",
+            "link": "",
+            "image": "img/products/ricky_skull.jpg",
+            "size": "30x24",
+            "inr": "3299",
+            "usd": "125"
+        },
+        {
+            "id": "56",
+            "name": "The Shenron Rug ",
+            "link": "",
+            "image": "img/products/shenron.jpg",
+            "size": "40x30 ",
+            "inr": "5399",
+            "usd": "210"
+        },
+        {
+            "id": "57",
+            "name": "The Sneaker Art 01",
+            "link": "",
+            "image": "img/products/sneaker_art_rug.jpg",
+            "size": "27x20",
+            "inr": "2499",
+            "usd": "100"
+        },
+        {
+            "id": "58",
+            "name": "The Sneaker Art 02 ",
+            "link": "",
+            "image": "img/products/sneaker_art_rug_2.jpg",
+            "size": "30x21",
+            "inr": "2999",
+            "usd": "115"
+        },
+        {
+            "id": "59",
+            "name": "The Spotify Rug ",
+            "link": "",
+            "image": "img/products/spotify.jpg",
+            "size": "48x12",
+            "inr": "2599",
+            "usd": "100"
+        },
+        {
+            "id": "60",
+            "name": "The Starry Night Rug ",
+            "link": "",
+            "image": "img/products/starry_night.jpg",
+            "size": "40x25",
+            "inr": "4499",
+            "usd": "175"
+        },
+        {
+            "id": "61",
+            "name": "The That's What She Said Rug ",
+            "link": "",
+            "image": "img/products/thats_what_she_said.jpg",
+            "size": "30x24",
+            "inr": "3199",
+            "usd": "125"
+        },
+        {
+            "id": "62",
+            "name": "The Blanc Rug ",
+            "link": "",
+            "image": "img/products/the_better_side.jpg",
+            "size": "60x45",
+            "inr": "11999",
+            "usd": "350"
+        },
+        {
+            "id": "63",
+            "name": "The Thermal hand Rug ",
+            "link": "",
+            "image": "img/products/thermal_hand.jpg",
+            "size": "24x23",
+            "inr": "2799",
+            "usd": "100"
+        },
+        {
+            "id": "64",
+            "name": "The Uno x Starry Night Rug ",
+            "link": "",
+            "image": "img/products/uno_starry_night.jpg",
+            "size": "30x20 ",
+            "inr": "2999",
+            "usd": "110"
+        },
+        {
+            "id": "65",
+            "name": "The Logo Rug ",
+            "link": "",
+            "image": "img/products/vanique.jpg",
+            "size": "30x20",
+            "inr": "2999",
+            "usd": "110"
+        },
+        {
+            "id": "66",
+            "name": "The Versace Rug ",
+            "link": "",
+            "image": "img/products/versace.jpg",
+            "size": "24x24",
+            "inr": "2799",
+            "usd": "100"
+        },
+        {
+            "id": "67",
+            "name": "The Yoda and Sage Rug",
+            "link": "",
+            "image": "img/products/yoda_sage.jpg",
+            "size": "36x30",
+            "inr": "4899",
+            "usd": "175"
+        },
+        {
+            "id": "68",
+            "name": "The Beer Rug ",
+            "link": "",
+            "image": "img/products/beer.jpg",
+            "size": "36x26",
+            "inr": "4199",
+            "usd": "165"
+        },
+        {
+            "id": "69",
+            "name": "The Cactus Jack Rug ",
+            "link": "",
+            "image": "img/products/cactus_jack_face.jpg",
+            "size": "24x24",
+            "inr": "2799",
+            "usd": "100"
+        },
+        {
+            "id": "70",
+            "name": "The Pink Piggy Rug ",
+            "link": "",
+            "image": "img/products/pink_piggy.jpg",
+            "size": "30x17",
+            "inr": "2499",
+            "usd": "100"
+        },
+        {
+            "id": "71",
+            "name": "The Jordan Logo Rug ",
+            "link": "",
+            "image": "img/products/jordan_logo_colorful.jpg",
+            "size": "30x30",
+            "inr": "3999",
+            "usd": "155"
+        },
+        {
+            "id": "72",
+            "name": "The Man Handling Nike Rug ",
+            "link": "",
+            "image": "img/products/manhandling.jpg",
+            "size": "30x22",
+            "inr": "2999",
+            "usd": "115"
+        },
+        {
+            "id": "73",
+            "name": "The Cactus Jack x Murakami Rug ",
+            "link": "",
+            "image": "img/products/cactus_jack_murakami.jpg",
+            "size": "36x36",
+            "inr": "5799",
+            "usd": "190"
+        },
+        {
+            "id": "74",
+            "name": "The Dolce & Gabbana Sorrento Rug ",
+            "link": "",
+            "image": "img/products/gabbana.jpg",
+            "size": "42x22 ",
+            "inr": "4199",
+            "usd": "160"
+        },
+        {
+            "id": "75",
+            "name": "The Drake Rug ",
+            "link": "",
+            "image": "img/products/drake.jpg",
+            "size": "24x24 ",
+            "inr": "2799",
+            "usd": "100"
+        },
+        {
+            "id": "76",
+            "name": "The Leopard Rug ",
+            "link": "",
+            "image": "img/products/leopard.jpg",
+            "size": "48x30",
+            "inr": "6499",
+            "usd": "210"
+        },
+        {
+            "id": "77",
+            "name": "The Kodak Rug ",
+            "link": "",
+            "image": "img/products/kodak.jpg",
+            "size": "32x27",
+            "inr": "3899",
+            "usd": "150"
+        },
+        {
+            "id": "78",
+            "name": "The Baby Yoda Rug ",
+            "link": "",
+            "image": "img/products/baby_yoda.jpg",
+            "size": "36x30",
+            "inr": "4899",
+            "usd": "175"
+        },
+        {
+            "id": "79",
+            "name": "The Friends Rug ",
+            "link": "",
+            "image": "img/products/friends.jpg",
+            "size": "30x6",
+            "inr": "999",
+            "usd": "75"
+        },
+        {
+            "id": "80",
+            "name": "The Mini Sneakerbox Rug ",
+            "link": "",
+            "image": "img/products/mini_sneakerbox.jpg",
+            "size": "36x24",
+            "inr": "3899",
+            "usd": "150"
+        },
+        {
+            "id": "81",
+            "name": "The Pizza Slice Rug ",
+            "link": "",
+            "image": "img/products/pizza.jpg",
+            "size": "26x24",
+            "inr": "2799",
+            "usd": "110"
+        },
+        {
+            "id": "82",
+            "name": "The Starbucks Rug ",
+            "link": "",
+            "image": "img/products/starbucks.jpg",
+            "size": "30x30",
+            "inr": "3999",
+            "usd": "155"
+        },
+        {
+            "id": "83",
+            "name": "The F1 Rug ",
+            "link": "",
+            "image": "img/products/f1.jpg",
+            "size": "24x8",
+            "inr": "999",
+            "usd": "75"
+        }
+    ]
+}
