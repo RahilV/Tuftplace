@@ -1,0 +1,5 @@
+---
+deployment:
+      tasks:
+        - export DEPLOYPATH=/home/oatjf8q8iqo6/public_html
+        - /bin/cp -r /home/oatjf8q8iqo6/repositories/Tuftplace/* $DEPLOYPATH
