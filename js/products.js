@@ -1,4 +1,4 @@
-fetch('/js/products.json')
+fetch('js/products.json')
     .then(response => response.json())
     .then(data => {
         // Get the product container element
