@@ -1,6 +1,6 @@
 (function() {
 
-    var w_width, w_height, largeHeader, canvas, ctx, points, target, animateHeader = true;
+    var width, height, largeHeader, canvas, ctx, points, target, animateHeader = true;
 
     // Main
     initHeader();
@@ -8,24 +8,24 @@
     addListeners();
 
     function initHeader() {
-        w_width = window.innerWidth;
-        w_height = window.innerHeight;
-        target = {x: w_width/2, y: w_height/2};
+        width = window.innerWidth;
+        height = window.innerHeight;
+        target = {x: width/2, y: height/2};
 
         largeHeader = document.getElementById('large-header');
-        largeHeader.height = w_height+'px';
+        largeHeader.style.height = height;
 
         canvas = document.getElementById('demo-canvas');
-        canvas.width = w_width;
-        canvas.height = w_height;
+        canvas.width = width;
+        canvas.height = height;
         ctx = canvas.getContext('2d');
 
         // create points
         points = [];
-        for(var x = 0; x < w_width; x = x + w_width/20) {
-            for(var y = 0; y < w_height; y = y + w_height/20) {
-                var px = x + Math.random()*w_width/20;
-                var py = y + Math.random()*w_height/20;
+        for(var x = 0; x < width; x = x + width/20) {
+            for(var y = 0; y < height; y = y + height/20) {
+                var px = x + Math.random()*width/20;
+                var py = y + Math.random()*height/20;
                 var p = {x: px, originX: px, y: py, originY: py };
                 points.push(p);
             }
@@ -92,16 +92,16 @@
     }
 
     function scrollCheck() {
-        if(document.body.scrollTop > w_height) animateHeader = false;
+        if(document.body.scrollTop > height) animateHeader = false;
         else animateHeader = true;
     }
 
     function resize() {
-        w_width = window.innerWidth;
-        w_height = window.innerHeight;
-        largeHeader.height = w_height+'px';
-        canvas.width = w_width;
-        canvas.height = w_height;
+        width = window.innerWidth;
+        height = window.innerHeight;
+        largeHeader.style.height = height;
+        canvas.width = width;
+        canvas.height = height;
     }
 
     // animation
@@ -114,7 +114,7 @@
 
     function animate() {
         if(animateHeader) {
-            ctx.clearRect(0,0,w_width,w_height);
+            ctx.clearRect(0,0,width,height);
             for(var i in points) {
                 // detect points in range
                 if(Math.abs(getDistance(target, points[i])) < 4000) {
