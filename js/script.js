@@ -11,14 +11,13 @@
         width = window.innerWidth;
         height = window.innerHeight;
         target = {x: width/2, y: height/2};
+        // largeHeader = document.getElementById('large-header');
+        // largeHeader.style.height = height + 'px';
 
-        largeHeader = document.getElementById('large-header');
-        largeHeader.height = height;
-
-        canvas = document.getElementById('demo-canvas');
-        canvas.width = width;
-        canvas.height = height;
-        ctx = canvas.getContext('2d');
+        // canvas = document.getElementById('demo-canvas');
+        // canvas.style.width = width + 'px';
+        // canvas.height = height;
+        // ctx = canvas.getContext('2d');
 
         // create points
         points = [];
@@ -99,9 +98,9 @@
     function resize() {
         width = window.innerWidth;
         height = window.innerHeight;
-        largeHeader.height = height;
-        canvas.width = width;
-        canvas.height = height;
+        // largeHeader.height = height;
+        // canvas.width = width;
+        // canvas.height = height;
     }
 
     // animation
